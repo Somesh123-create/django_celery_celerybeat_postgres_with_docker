@@ -1,0 +1,10 @@
+asgiref==3.6.0
+Django==4.1.4
+sqlparse==0.4.3
+tzdata==2022.7
+psycopg2>=2.8
+redis>=3.5
+celery>=5.0
+django-celery-beat>=2.4
+django-celery-results>=2.4
+gunicorn
